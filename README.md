@@ -1,2 +1,19 @@
 # Lumina
-Lumina is an AI-powered conversational assistant built using Java Spring Boot and Generative AI APIs. It enables users to engage in natural language conversations through an interactive web interface, providing intelligent, context-aware responses in real time.
+
+AI-powered conversational assistant built using Java Spring Boot and modern web technologies.
+
+## Features
+
+- Interactive chat interface
+- Responsive design
+- Real-time messaging
+- Gemini AI integration (coming soon)
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- HTML
+- CSS
+- JavaScript
+- Maven
